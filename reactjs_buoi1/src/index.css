@@ -7,7 +7,38 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.healer{
+  width: 66px; 
+  margin: 0 auto;
 }
+.healer .fa-house{
+  padding: 20px;
+  font-size: 20px;
+  color: white;
+}
+.healer .fa-download{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .healer .fa-bars{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .healer .fa-b{
+  padding: 20px;
+  font-size: 20px;
+  color: white;
+ }
+ .healer .fa-code{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .healer .fa-check{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ 
